@@ -4,4 +4,5 @@ git has a mutable index call stage.
 git tracks changes of files.
 i love git
 master branch and jie jue chongtu 
+manage git
 
